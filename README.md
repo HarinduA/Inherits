@@ -1,3 +1,3 @@
 # Inherits
 
-Practice code 
+Inheritence Practice code 
